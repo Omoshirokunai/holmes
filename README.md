@@ -54,6 +54,13 @@ streamlit run holmes.py --server.headless true
 ```bash
 npm start
 ```
+
+## File structure:
+The current file structure will most likely be updated as I go along
+
+Holmes: the main script , contains streamlit page setup and page navigation
+every other module is named after what they accomplish
+
 ## TODO:
 * convolutional neural net in tensorflow that takes noise stream and rgb or ycbcr as inputs and outputs if an image is tampered or not
 * imporve file structure
