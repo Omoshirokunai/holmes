@@ -62,6 +62,7 @@ Holmes: the main script , contains streamlit page setup and page navigation
 every other module is named after what they accomplish
 
 ## TODO:
+* create a list of quantization tables used by popular software and devices which will be used for matching with user uploaded image
 * convolutional neural net in tensorflow that takes noise stream and rgb or ycbcr as inputs and outputs if an image is tampered or not  (top priority right now)
 * i dont like how it handles the opening of images 
 * imporve file structure
