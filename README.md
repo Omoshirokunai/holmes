@@ -35,23 +35,29 @@ Project is created with:
 
 To run this project
 1) install necessary pip libraries
-----
+
 ```bash
 pip install -r requirements.txt
 ```
 
 2) Install necessary npm libraries
-----
+
 ```bash
 npm install electron
 ```
+3) run streamlit
 
-
+```bash
+streamlit run holmes.py --server.headless true
+```
+4) view in electron
+```bash
+npm start
+```
 ## TODO:
 * convolutional neural net in tensorflow that takes noise stream and rgb or ycbcr as inputs and outputs if an image is tampered or not
+* imporve file structure
 * script to run both streamlit and electron quickly
-
-
 
 
 
