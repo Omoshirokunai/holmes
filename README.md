@@ -58,7 +58,7 @@ npm start
 ## File structure:
 The current file structure will most likely be updated as I go along
 
-Holmes: the main script , contains streamlit page setup and page navigation
+holmes.py: is the main script, contains streamlit page setup and page navigation
 every other module is named after what they accomplish
 
 ## TODO:
