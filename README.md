@@ -62,7 +62,8 @@ Holmes: the main script , contains streamlit page setup and page navigation
 every other module is named after what they accomplish
 
 ## TODO:
-* convolutional neural net in tensorflow that takes noise stream and rgb or ycbcr as inputs and outputs if an image is tampered or not
+* convolutional neural net in tensorflow that takes noise stream and rgb or ycbcr as inputs and outputs if an image is tampered or not  (top priority right now)
+* i dont like how it handles the opening of images 
 * imporve file structure
 * script to run both streamlit and electron quickly
 
