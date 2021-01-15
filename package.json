@@ -1,0 +1,19 @@
+{
+  "name": "holmes",
+  "version": "1.0.0",
+  "description": "Image forensics tool",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": [
+    "Image forensics"
+  ],
+  "author": "omoshiroi",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^11.1.0"
+    
+  }
+}

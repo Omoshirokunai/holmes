@@ -1,0 +1,5 @@
+jpegio
+pillow
+pandas
+numpy
+streamlit
